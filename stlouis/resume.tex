@@ -1,0 +1,148 @@
+\documentclass{article}
+\usepackage[a4paper]{geometry} 
+\geometry{a4paper, top=1.2cm, left=1.5cm, right=2.0cm, bottom=.1cm, includehead, includefoot}
+%==============================
+%For Japanese
+\usepackage{xeCJK}
+\usepackage[overlap]{ruby}
+\renewcommand{\rubysize}{0.6}
+\setCJKmainfont{TakaoExMincho}
+%==============================
+\newcommand{\thickhline}{\hrule height 0.8pt}
+\usepackage{graphicx}
+
+%==============================
+%For colors
+\usepackage{color}
+\usepackage{xcolor}
+\definecolor{Lightgray}{gray}{.80}
+\definecolor{verylightgray}{gray}{.2}
+%==============================
+
+\usepackage{metalogo}
+
+\usepackage{multicol}
+
+%User defined commands
+%==============================
+\newcommand{\blarge}[1] {{\bf\large #1}}
+%==============================
+
+%==============================
+%\usepackage{draftwatermark}
+%\SetWatermarkFontSize{2cm}
+%\SetWatermarkText{\textsc{RJ}}
+%==============================
+
+    \newenvironment{myindentpar}[1]%
+     {\begin{list}{}%
+             {\setlength{\leftmargin}{#1}}%
+             \item[]%
+     }
+     {\end{list}}
+
+
+\begin{document} 
+%==============================
+%No page numbering. 
+\thispagestyle{empty}
+\pagestyle{empty}
+%==============================
+ 
+\begin{center}
+{\huge Russell David Johnson II}   
+\end{center}
+%
+\rule{\textwidth}{3pt}
+%\colorbox{Lightgray}{\begin{minipage}{\textwidth}
+HOME ADDRESS 					\\
+614 W Walnut Street 					\\
+Nashville, IL 62263			\\
+(616) 724-0479						\\
+\hspace*{.35\textwidth}	russjohnson09@gmail.com			\\
+%\end{minipage}}   
+\rule{\textwidth}{3pt}
+\vspace{2mm}\\
+
+\noindent\blarge{Objective}
+\begin{myindentpar}{.5cm}
+To be hired by you and work in the St. Louis area so that I can use my skills that I have acquired in the classroom over the past four years along with the skills I have obtained from my personal passion of programming, math, and language and be paid for it.
+\end{myindentpar}
+
+\noindent\blarge{Why You Should Hire Me}
+\begin{myindentpar}{.5cm}
+While my interest for math and language goes back to high school, my passion for programming only started two years ago. I am highly focused, motivated, and learn quickly through instruction or independently. I will be a very positive asset to your company.
+\end{myindentpar}
+
+
+\noindent\blarge{Education}\\
+\begin{tabular}{l@{\hskip 0.2\linewidth}l@{~~~~~~~}l}
+&{\bf Grand Valley State University}	&	Allendale, MI			\\
+&Bachelor of Arts						& 	April 2013				\\
+&{\it Major:} Mathematics				&	{\it Minor:} Computer Science	\\
+&GPA 3.65								&							\\
+&Dean's List 5 semesters                &   Honors Program          \\
+&Japanese 6 semesters  & Japanese Language Proficiency Test N4 Certification\\
+\end{tabular}\\
+
+
+\noindent\blarge{Employment}\\
+\begin{tabular}{l@{\hskip 0.2\linewidth}l}
+&    Crew Member at McDonald's in Nashville, IL (Summer 2007)\\
+&    Lawn Work for Lila Schmidt in Fort Wayne, IN (2005-2006,2008)\\
+\end{tabular}\\
+
+
+\noindent\blarge{Skills/Knowledge}
+\begin{multicols}{2}
+\begin{itemize}
+\item Python
+\item Java
+\item Bash
+\item Django
+\item SQL
+\item \LaTeX
+\item \XeLaTeX
+\item Japanese
+\end{itemize}
+\end{multicols}
+
+
+\noindent\blarge{Senior Project}\\
+\begin{tabular}{l@{\hskip 0.2\linewidth}l}
+&	prop.py (A proof checker for propositional calculus.)	\\
+&	https://github.com/russjohnson09/prop-calc				\\
+\end{tabular}\\
+
+
+\noindent\blarge{Extracurricular Programming}\\  
+\begin{tabular}{l@{\hskip 0.2\linewidth}l}
+&	auto-git.py　(Automates common tasks when working with github.)	\\          
+&	IPhone GPS (Takes GPS metadata from photo and returns location in decimal degrees) \\
+\end{tabular}\\
+
+\noindent\blarge{Volunteer Work}\\
+\begin{tabular}{l@{\hskip 0.2\linewidth}l}
+&	Setting up computers for K-8 school.	\\          
+&	Painting for school.     							\\      
+&	Setting up playground.				\\
+&	Teaching an elderly person how to use a computer.							\\
+\end{tabular}\\
+
+\noindent\blarge{Club Membership}\\       
+\begin{tabular}{l@{\hskip 0.2\linewidth}l}
+&	Japanese Culture Association(日本文化協会)	\\          
+&	Writing Club     							\\      
+&	Japanese Film Appreciation 					\\
+&   Computer Ethics Club\\
+\end{tabular}
+~\\
+\vfill
+~\\
+\begin{center}
+References available upon request.
+\end{center}
+
+
+
+\end{document}

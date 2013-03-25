@@ -1,0 +1,55 @@
+Russell David Johnson II
+HOME ADDRESS
+614 W Walnut Street
+Nashville, IL 62263
+(616) 724-0479
+russjohnson09@gmail.com
+
+Objective:
+To be hired by you so that I can use my skills that I have acquired in the classroom over the past four years along with the skills I have obtained from my personal passion of programming, math, and language and be paid for it.
+
+Why You Should Hire Me:
+While my interest for math and language goes back to high school, my passion for programming only started two years ago. I am highly focused, motivated, and learn quickly through instruction or independently. I will be a very positive asset to your company.
+
+Education:
+Grand Valley State University
+Bachelor of Arts
+Major: Mathematics
+GPA 3.65
+Dean’s List 5 semesters
+Japanese 6 semesters
+Allendale, MI
+April 2013
+Minor: Computer Science
+Honors Program
+Japanese Language Proficiency Test N4 Certification
+
+Employment:
+Crew Member at McDonald’s in Nashville, IL (Summer 2007)
+Lawn Work for Lila Schmidt in Fort Wayne, IN (2005-2006,2008)
+
+Skills/Knowledge:
+Python, Java, Bash, Django, SQL, Latex, XeLatex, Japanese
+
+Senior Project:
+prop.py (A proof checker for propositional calculus.)
+https://github.com/russjohnson09/prop-calc
+
+Extracurricular Programming:
+auto-git.py   (Automates common tasks when working with github.)
+IPhone GPS (Takes GPS metadata from photo and returns location in decimal degrees)
+
+Volunteer Work:
+Setting up computers for K-8 school.
+Painting for school.
+Setting up playground.
+Teaching an elderly person how to use a computer.
+
+Club Membership:
+Japanese Culture Association(日本文化協会)
+Writing Club
+Japanese Film Appreciation
+Computer Ethics Club
+
+
+References available upon request.
